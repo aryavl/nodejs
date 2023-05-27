@@ -1,0 +1,2 @@
+Names are arya lekshmi 
+Hello all, append is used to append data to an existing file
