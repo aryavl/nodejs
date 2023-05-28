@@ -1,2 +1,1 @@
-Names are arya lekshmi 
-Hello all, append is used to append data to an existing file
+Names are arya lekshmi sed to append data to an existing file
