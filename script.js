@@ -1,3 +1,3 @@
-const {loggerFunction,myName} = require("./utils")
-console.log(loggerFunction());
+const {logger,myName} = require("./utils")
+console.log(logger());
 console.log(myName);

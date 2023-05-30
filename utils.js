@@ -3,6 +3,6 @@ const logger = ()=>{
 }
 const myName = "arya"
 module.exports = {
-    loggerFunction:logger,
+    logger,
     myName
 };
